@@ -13,7 +13,7 @@ Abra o arquivo index.html em diferentes dispositivos ou redimensione a janela do
 
 
 #### **Como Visualizar o Projeto**
-Para visualizar o currículo responsivo, basta abrir o arquivo index.html em qualquer navegador web. Não é necessário instalar nenhuma dependência adicional.
+Para visualizar o currículo responsivo, basta abrir o arquivo LeonardoPalin.html em qualquer navegador web. Não é necessário instalar nenhuma dependência adicional.
 
 ##### **Passos:**
 Faça o download ou clone este repositório.
